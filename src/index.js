@@ -7,7 +7,7 @@ import "./styles/style.css";
 import "./styles/homePage.css";
 import "./styles/menuPage.css";
 import "./styles/aboutPage.css";
-import "./styles/footerPage.css";
+import "./styles/footer.css";
 
 
 const content = document.querySelector('#content');

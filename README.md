@@ -27,7 +27,7 @@ The site includes a home page, menu page, and about/contact page.
 - [Kevin Petit](https://pixabay.com/users/drawsandcooks-6719143/)
 - [Slava Sidorov](https://pixabay.com/users/slava_web-designer-39623293/)
 - [Larry White](https://pixabay.com/users/lawjr-4448871/)
-- [Rose Wang](https://pixabay.com/users/nvxier-10220311/)
+- [Chef - Rose Wang](https://pixabay.com/users/nvxier-10220311/)
 
 ---
 
@@ -51,7 +51,11 @@ The site includes a home page, menu page, and about/contact page.
 │   │           ├── truffle-fries.jpg
 │   │           └── ... (other menu images)
 │   └── styles/
-│       └── style.css
+│       ├── style.css
+│       ├── homePage.css
+│       ├── menuPage.css
+│       ├── aboutPage.css
+│       └── footer.css
 ├── webpack.config.js
 ├── package.json
 └── README.md
