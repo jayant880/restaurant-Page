@@ -6,7 +6,7 @@ The site includes a home page, menu page, and about/contact page.
 ---
 
 ## 🔗 Live Demo
-//TODO
+[demo](https://jayant880.github.io/restaurant-Page/)
 
 ---
 
