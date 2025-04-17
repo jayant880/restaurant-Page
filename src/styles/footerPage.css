@@ -1,0 +1,22 @@
+#footer {
+  background-color: var(--secondary-color);
+  color: white;
+  padding: 1.5rem;
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.copyright {
+  font-weight: bold;
+}
+
+.attribution {
+  font-size: 0.8rem;
+  opacity: 0.8;
+}

@@ -1,0 +1,49 @@
+.about-page {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.story-section,
+.contact-section {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+.chef-image {
+  float: left;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 1.5rem 1rem 0;
+  border: 3px solid var(--primary-color);
+}
+
+.story-section p {
+  line-height: 1.8;
+}
+
+.contact-info {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.contact-info div {
+  padding: 0.8rem;
+  background-color: var(--light-color);
+  border-radius: 4px;
+}
+
+.contact-info a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
